@@ -40,6 +40,7 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 2. Joshue Ruiz
 3. Lisbeth Alvarado
 4. Andrés Sebastian Calderón Velasco
+5. Ricardo Morales
 
 ## INFORMACIÓN ADICIONAL
 
